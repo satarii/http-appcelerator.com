@@ -101,7 +101,7 @@
     "cz-conventional-changelog": "^3.0.2",
     "danger": "^9.1.4",
     "eslint": "^6.0.1",
-    "eslint-config-axway": "^4.2.2",
+    "eslint-config-axway": "^4.3.0",
     "eslint-plugin-mocha": "^5.3.0",
     "glob": "^7.1.4",
     "grunt": "^1.0.4",
